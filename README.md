@@ -1,19 +1,30 @@
 # OpenCV Basics
 
-Learning OpenCV and Computer Vision fundamentals through hands-on practice.
+Hands-on practice with Python and OpenCV, covering fundamental image processing and Computer Vision concepts.
 
-## What's in this repo
+## Topics
 
-- `loading.py` — Load and display images using OpenCV
-- `saving.py` — Save/write images to disk
-- Basic image processing experiments
+- Image loading and display
+- Image saving
+- Image resizing
+- Image cropping
+- Grayscale conversion
+- Image dimensions
+
+## Tech Stack
+
+- Python
+- OpenCV
+- NumPy
 
 ## Goal
 
-This repository documents my journey learning:
-- Python + OpenCV basics
-- Image loading, processing, and saving
-- Eventually: real-time computer vision and machine learning
+Build a strong foundation in OpenCV and gradually move toward advanced Computer Vision and AI/ML projects.
+
+## Author
+
+**Rishika Saxena**
+
 
 ## Author
 
